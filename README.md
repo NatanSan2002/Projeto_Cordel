@@ -8,3 +8,5 @@ Me concentrei 100% na estilização do site, então as "poesias" do tema do site
 OBS: Esse é o mesmo site que está no meu repositório de HTML e CSS  
 
 Créditos ao curso: Curso em video.
+
+Host: https://natansan2002.github.io/Projeto_Cordel/
